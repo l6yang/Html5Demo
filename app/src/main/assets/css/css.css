@@ -1,0 +1,14 @@
+html,
+body {
+    background-size: 100% 100%;
+    margin: 0;
+    padding: 0;
+    min-height: 100vh;
+    background: url("../images/bizhi_02.jpg") no-repeat;
+    background-size: cover;
+}
+
+#login_input {
+    position: relative;
+    align-content: center;
+}
